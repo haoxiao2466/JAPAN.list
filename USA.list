@@ -1,0 +1,6 @@
+美国 BGP 中继 1 = custom,us1.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+美国 BGP 中继 2 = custom,us2.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+美国 BGP 中继 3 = custom,us3.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+美国 BGP 中继 4 = custom,us4.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+美国标准 BGP 中继 1 = custom,us1.endpoint.bgp.center,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+美国标准 BGP 中继 2 = custom,us2.endpoint.bgp.center,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
