@@ -1,0 +1,11 @@
+日本 BGP 中继 1 = custom,jp1.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+日本 BGP 中继 2 = custom,jp2.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+日本 BGP 中继 3 = custom,jp3.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+日本 BGP 中继 4 = custom,jp4.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+日本 BGP 中继 5 = custom,jp5.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+日本 BGP 中继 6 = custom,jp6.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+日本 BGP 中继 7 = custom,jp7.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+日本 BGP 中继 8 = custom,jp8.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+日本 BGP 中继 9 = custom,jp9.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+日本标准 BGP 中继 1 = custom,jp1.endpoint.bgp.center,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+日本标准 BGP 中继 2 = custom,jp2.endpoint.bgp.center,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
