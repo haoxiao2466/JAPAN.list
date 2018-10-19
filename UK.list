@@ -1,0 +1,2 @@
+英国 BGP 中继 1 = custom,uk1.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+英国 BGP 中继 2 = custom,uk2.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
