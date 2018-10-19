@@ -1,0 +1,3 @@
+新加坡 BGP 中继 1 = custom,sg1.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+新加坡 BGP 中继 2 = custom,sg2.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+新加坡 BGP 中继 3 = custom,sg3.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
