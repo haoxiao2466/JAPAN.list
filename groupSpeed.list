@@ -1,4 +1,4 @@
-澳门 BGP 中继 2 = custom,mo2.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
+
 日本 BGP 中继 1 = custom,jp1.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
 香港 BGP 中继 1 = custom,hk1.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
 香港 BGP 中继 3 = custom,hk3.endpoint.bgp.app,15098,aes-256-gcm,AaB7534226,https://cdn.rixcloud.io/surge/SSEncrypt.module
